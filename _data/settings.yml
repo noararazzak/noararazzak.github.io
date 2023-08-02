@@ -1,7 +1,7 @@
 menu:
 - {name: 'publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
-- {name: 'cv', url: '/cv'}
+- {name: 'cv', url: 'https://drive.google.com/file/d/1xYHHGwGckypzme9NZetPO7zOWNgvHSv3/view?usp=sharing'}
 - {name: 'contact', url: '/contact'}
 
 courses:
