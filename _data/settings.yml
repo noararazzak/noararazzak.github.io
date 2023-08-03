@@ -17,4 +17,4 @@ social:
 
 
 contacts:
-- {name: 'Noara Razzak', department: 'Department of Economics', institution: 'Clemson University', institution_address: '320 Wilbur O. and Ann Powers Hall', phone: '(864) 656-3481', email: 'nrazzak@clemson.edu', image: 'assets/img/contact.jpg'}
+- {name: 'Noara Razzak', department: 'Department of Economics', institution: 'Clemson University', institution_address: '320 Wilbur O. and Ann Powers Hall', phone: '(864) 656-3481', email: 'nrazzak(@)clemson.edu', image: 'assets/img/contact.jpg'}
