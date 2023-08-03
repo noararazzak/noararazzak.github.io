@@ -1,14 +1,15 @@
 menu:
 - {name: 'publications', url: '/publications'}
+- {name: 'working papers', url: '/workingpapers'}
 - {name: 'courses', url: '/courses'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
 courses:
-- {name: 'Principles of Microeconomics', url: 'vector-calculus'}
-- {name: 'Introduction to Statistics', url: 'quantum-mechanics'}
-- {name: 'Statistics for Business and Economics', url: 'stellar-structures'}
-- {name: 'Mathematics for Business and Economics', url: 'stellar-structures'}
+- {name: 'Principles of Microeconomics', url: 'principles_of_micro'}
+- {name: 'Introduction to Statistics', url: 'intro_to_statistics'}
+- {name: 'Statistics for Business and Economics', url: 'statistics_for_business_and_economics'}
+- {name: 'Mathematics for Business and Economics', url: 'math_for_business_and_economics'}
 
 social:
 - {icon: 'github', link: 'https://github.com/noararazzak'}
