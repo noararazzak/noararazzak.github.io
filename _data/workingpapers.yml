@@ -1,19 +1,14 @@
 featured:
 - {name: 'Does the Closing of Minority Depository Institutions Affect Credit Supply within their Communities?', url: '/workingpapers/draft_1_aug2_2023.pdf'}
 
+- {name: 'Who Distributed More Paycheck Protection Program (PPP) Loans? A Nonparametric Approach to Determine the Characteristics of Banks that Influenced Their Ability to Distribute PPP Loans', url: '/workingpapers/draft_2_sep3_2023.pdf'}
+
+- {name: 'Does Extreme Weather Events Impact the Frequency of Loan Take-up by Bangladeshi Households in Vulnerable Communities? An Analysis with Count Data Models.', url: '/workingpapers/draft_3_sep3_2023.pdf'}
+
 index:
 - {name: 'Does the Closing of Minority Depository Institutions Affect Credit Supply within their Communities?', url: '/workingpapers/draft_1_aug2_2023.pdf'}
 
-
-featured:
 - {name: 'Who Distributed More Paycheck Protection Program (PPP) Loans? A Nonparametric Approach to Determine the Characteristics of Banks that Influenced Their Ability to Distribute PPP Loans', url: '/workingpapers/draft_2_sep3_2023.pdf'}
 
-index:
-- {name: 'Who Distributed More Paycheck Protection Program (PPP) Loans? A Nonparametric Approach to Determine the Characteristics of Banks that Influenced Their Ability to Distribute PPP Loans', url: '/workingpapers/draft_2_sep3_2023.pdf'}
-
-
-featured:
 - {name: 'Does Extreme Weather Events Impact the Frequency of Loan Take-up by Bangladeshi Households in Vulnerable Communities? An Analysis with Count Data Models.', url: '/workingpapers/draft_3_sep3_2023.pdf'}
 
-index:
-- {name: 'Does Extreme Weather Events Impact the Frequency of Loan Take-up by Bangladeshi Households in Vulnerable Communities? An Analysis with Count Data Models.', url: '/workingpapers/draft_3_sep3_2023.pdf'}
