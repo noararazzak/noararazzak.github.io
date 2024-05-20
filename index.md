@@ -9,11 +9,7 @@ You can contact me at :
 
 nrazzak@g.clemson.edu
 
-<div class="col-md-10">
-    {% for section in site.data.cv.education %}
-       <p><a href="{{ site.github.url }}/cv/razzak_apr2024.pdf">{{Curriculum Vitae (pdf)}}</a></p>
-    {% endfor %}
-</div>
+[Curriculum Vitae](https://noararazzak.com/cv/razzak_apr2024.pdf)
 
 
 
