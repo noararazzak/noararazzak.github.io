@@ -7,5 +7,7 @@ Hello, I am Noara Razzak, a PhD Candidate in the John E. Walker Department of Ec
 
 You can contact me at :
 
-nrazzak@g.clemson.edu
+nrazzak@.clemson.edu
+
+
 
