@@ -7,12 +7,13 @@ layout: default
 <div class="row g-5 mb-5">
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">CV</h3>
-    <div class="row g-5 mb-5">
-      <div class="col-md-10">
+    {% if page.title == "Home" %}
+      {% for section in site.data.cv.education %}
+        <p><a href="{{ site.github.url }}/cv/razzak_apr2024.pdf">{{ item.name }}</a></p>
+      {% endfor %}
+    {% else %}
         {% for section in site.data.cv.education %}
           <p><a href="{{ site.github.url }}/cv/razzak_apr2024.pdf">{{section.description}}</a></p>
         {% endfor %}
-      </div>
-    </div>
   </div>
 </div>
