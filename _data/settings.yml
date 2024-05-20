@@ -1,11 +1,11 @@
 menu:
 - {name: 'publications', url: '/publications'}
 - {name: 'working papers', url: '/workingpapers'}
-- {name: 'courses', url: '/courses'}
+- {name: 'teaching', url: '/teaching'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
-courses:
+teaching:
 - {name: 'Principles of Microeconomics', url: 'principles_of_micro'}
 - {name: 'Introduction to Statistics', url: 'intro_to_statistics'}
 - {name: 'Statistics for Business and Economics', url: 'statistics_for_business_and_economics'}
