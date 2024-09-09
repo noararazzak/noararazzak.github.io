@@ -9,9 +9,9 @@ You can contact me at :
 
 <nrazzak@g.clemson.edu>
 
-[Curriculum Vitae(pdf)](https://noararazzak.com/cv/razzak_jul2024.pdf)
+[Curriculum Vitae(pdf)](https://noararazzak.com/cv/razzak_sep2024.pdf)
 
-[Job Market Paper(pdf)](https://noararazzak.com/jmp/draft1_sep4_2024.pdf)
+[Job Market Paper(pdf)](https://noararazzak.com/jmp/draft1_sep9_2024.pdf)
 
 
 
