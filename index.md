@@ -11,7 +11,7 @@ You can contact me at :
 
 [Curriculum Vitae(pdf)](https://noararazzak.com/cv/razzak_sep2024.pdf)
 
-[Job Market Paper(pdf)](https://noararazzak.com/jmp/draft.pdf)
+[Abstract of Job Market Paper(pdf)](https://noararazzak.com/jmp/draft.pdf)
 
 
 
