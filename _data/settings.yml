@@ -2,7 +2,6 @@ menu:
 - {name: 'publications', url: '/publications'}
 - {name: 'working papers', url: '/workingpapers'}
 - {name: 'teaching', url: '/teaching'}
-- {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
 teaching:
