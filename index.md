@@ -10,7 +10,7 @@ You can find my CV [here](https://noararazzak.com/cv/razzak_sep2024.pdf) and con
 
 I have presented my [job market paper](https://noararazzak.com/jmp/draft.pdf) at the following conferences and seminars:
 
-[Philadelphia Federal Reserve's Mentoring and Advancing PhDs (PFMAP) Program (Federal Reserve Bank of Philadelphia, PA)](https://noararazzak.com/conferences/pfmap.pdf), [Carolina Region Empirical Economics Day (UNC Charlotte, NC)](https://noararazzak.com/conferences/creed.pdf), [2nd Women in Central Banking Workshop (Federal Reserve Bank of Dallas, TX)](https://noararazzak.com/conferences/womenincentralbanking.pdf), [Southern Economic Association 94th Annual Meetings (Washington D.C; Scheduled)](https://sea.mymeetingsavvy.net/program#session2.B.26); Brown Bag Seminar(Federal Reserve Bank of Boston, MA; Scheduled in 2025)
+[Philadelphia Federal Reserve's Mentoring and Advancing PhDs (PFMAP) Program (Federal Reserve Bank of Philadelphia, PA)](https://noararazzak.com/conferences/pfmap.pdf), [Carolina Region Empirical Economics Day (UNC Charlotte, NC)](https://noararazzak.com/conferences/creed.pdf), [2nd Women in Central Banking Workshop (Federal Reserve Bank of Dallas, TX)](https://noararazzak.com/conferences/womenincentralbanking.pdf), [Southern Economic Association 94th Annual Meetings (Washington D.C; Scheduled)](https://sea.mymeetingsavvy.net/program#session2.B.26); Brown Bag Seminar at Supervision, Regulation & Credit (Federal Reserve Bank of Boston, MA; Scheduled in 2025)
 
 
 
