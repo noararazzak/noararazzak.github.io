@@ -10,7 +10,7 @@
     {% else %}
       {% for item in site.data.workingpapers.index %}
         <p>{{ item.name }}</p>
-        <p><a href="{{ item.url }}"></a>{{ item.description }}</p>
+        <p><a href="{{ item.url }}">{{ item.description }}</a></p>
       {% endfor %}
     {% endif %}
   </div>
