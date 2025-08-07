@@ -9,8 +9,8 @@
       {% endfor %}
     {% else %}
       {% for item in site.data.publications.index %}
-        <p>{{ item.name }}</p>
-        <p><a href="{{ item.url }}">{{ item.description }}</a></p>
+        <p>{{ item.name }}<br>
+        <a href="{{ item.url }}">{{ item.description }}</a></p>
       {% endfor %}
     {% endif %}
   </div>
