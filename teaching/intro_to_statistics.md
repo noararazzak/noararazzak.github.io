@@ -4,7 +4,7 @@ title: "Introduction to Statistics"
 ---
 
 [Course Outline](/teaching/Introduction_to_Statistics/eco104_syllabus.pdf)<br>
-[Slides, Part 1, Topic 1](/teaching/Introduction_to_Statistics/basics_of_statistics.pdf)<br>
+[Slides, Part 1, Topic 1](/teaching/Introduction_to_Statistics/eco104_basics_of_statistics.pdf)<br>
 [Slides, Part 1, Topic 2](/teaching/Introduction_to_Statistics/eco104_measures_skewness_mean_median_mode.pdf)<br>
 [Slides, Part 1, Topic 3](/teaching/Introduction_to_Statistics/eco104_probability.pdf)<br>
 [Slides, Part 2, Topic 1](/teaching/Introduction_to_Statistics/eco104_probability.pdf)<br>
