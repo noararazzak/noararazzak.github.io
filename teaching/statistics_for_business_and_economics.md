@@ -11,4 +11,5 @@ title: "Statistics for Business and Economics"
 [Slides, Part 1, Topic 2c](/teaching/Statistics_for_Business_and_Economics/eco204_expectation_and_variance_2.pdf)<br>
 [Slides, Part 1, Topic 2d](/teaching/Statistics_for_Business_and_Economics/eco204_expectation_and_variance_3.pdf)<br>
 [Slides, Part 2, Topic 1](/teaching/Statistics_for_Business_and_Economics/eco204_hypothesis_testing_1.pdf)<br>
+[Slides, Part 3, Topic 1](/teaching/Statistics_for_Business_and_Economics/eco204_chi_square_distribution_goodness_of_fit.pdf)<br>
 [Slides, Part 3, Topic 3](/teaching/Statistics_for_Business_and_Economics/eco204_linear_regression.pdf)<br>
