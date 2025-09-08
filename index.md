@@ -12,6 +12,6 @@ I have presented my research at the following conferences and seminars:
 
 Philadelphia Federal Reserve's Mentoring and Advancing PhDs (PFMAP) Program, Carolina Region Empirical Economics Day, 2nd Women in Central Banking Workshop at the Federal Reserve Bank of Dallas, Southern Economic Associations 94th Meeting, Brown Bag Seminar at Supervisory Research and Analysis Unit at the Federal Reserve Bank of Boston, Fintech and Financial Institutions Research Conference at Federal Reserve Bank of Philadelphia.
 
-You can see me present my research at the Southern Economic Associations 95th Annual Meeting in Tampa and Southern Finance Association 2025 Annual Meeting in Orlando - both scheduled in November. 
+You can see me present my research at the Southern Economic Association's Annual Meeting in Tampa and the Southern Finance Association's Annual Meeting in Orlando - both scheduled in November. 
 
 
