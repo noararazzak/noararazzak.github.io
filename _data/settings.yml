@@ -9,7 +9,7 @@ teaching:
 - {name: 'Introduction to Statistics', url: 'intro_to_statistics'}
 - {name: 'Statistics for Business and Economics', url: 'statistics_for_business_and_economics'}
 - {name: 'Mathematics for Business and Economics', url: 'math_for_business_and_economics'}
-- {name: 'Teaching Statement', url: '/teaching/Teaching_Statement/teaching_statement_razzak_noara.pdf'}
+- {name: 'Teaching Statement', url: 'teaching//teaching/Teaching_Statement/teaching_statement_razzak_noara.pdf'}
 
 social:
 - {icon: 'github', link: 'https://github.com/noararazzak'}
