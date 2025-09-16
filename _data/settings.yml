@@ -2,7 +2,6 @@ menu:
 - {name: 'publications', url: '/publications'}
 - {name: 'working papers', url: '/workingpapers'}
 - {name: 'teaching', url: '/teaching'}
-- {name: 'contact', url: '/contact'}
 
 teaching:
 - {name: 'Principles of Microeconomics', url: 'principles_of_micro'}
@@ -15,7 +14,6 @@ social:
 - {icon: 'github', link: 'https://github.com/noararazzak'}
 - {icon: 'twitter', link: 'https://twitter.com/noararazzak'}
 
-<!--
+
 contacts:
-- {name: 'Noara Razzak', department: 'John E. Walker Department of Economics', institution: 'Clemson University', institution_address: '320 Wilbur O. and Ann Powers Hall', phone: '(864) 656-3481', email: 'nrazzak@g.clemson.edu', image: 'assets/img/contact.jpg'}
--->
+- {name: 'Noara Razzak', department: 'John E. Walker Department of Economics', institution: 'Clemson University', institution_address: '316A Wilbur O. and Ann Powers Hall', phone: '(864) 656-3481', email: 'nrazzak@g.clemson.edu', image: 'assets/img/contact.jpg'}
