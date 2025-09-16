@@ -15,6 +15,7 @@ social:
 - {icon: 'github', link: 'https://github.com/noararazzak'}
 - {icon: 'twitter', link: 'https://twitter.com/noararazzak'}
 
-
+<!--
 contacts:
 - {name: 'Noara Razzak', department: 'John E. Walker Department of Economics', institution: 'Clemson University', institution_address: '320 Wilbur O. and Ann Powers Hall', phone: '(864) 656-3481', email: 'nrazzak@g.clemson.edu', image: 'assets/img/contact.jpg'}
+-->
