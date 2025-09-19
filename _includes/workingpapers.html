@@ -11,6 +11,7 @@
       {% for item in site.data.workingpapers.index %}
         <p>{{ item.name }}<br>
         <a href="{{ item.url }}">{{ item.description }}</a></p>
+        <p>{{ item.presentation }}<br>
       {% endfor %}
     {% endif %}
   </div>
