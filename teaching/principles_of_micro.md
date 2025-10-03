@@ -12,7 +12,7 @@ title: "Principles of Microeconomics"
 [Slides, Chapter 5, practice questions](/teaching/Principles_of_Microeconomics/chapter5_practicequestions_fall2025.pdf)<br>
 [Slides, Chapter 6](/teaching/Principles_of_Microeconomics/chapter6_fall2025.pdf)<br>
 [Slides, Chapter 8](/teaching/Principles_of_Microeconomics/chapter8_fall2025.pdf)<br>
-[Slides, Chapter 10](/teaching/Principles_of_Microeconomics/chapter10_fall2025.pdf)<br>
+[Slides, Chapter 10](/teaching/Principles_of_Microeconomics/chapter10_v2_fall2025.pdf)<br>
 [Slides, Chapter 11 & 13](/teaching/Principles_of_Microeconomics/chapter11and13_fall2025.pdf)<br>
 
 
