@@ -15,4 +15,3 @@ title: "Principles of Microeconomics"
 [Slides, Externalities](/teaching/Principles_of_Microeconomics/chapter10_v2_fall2025.pdf)<br>
 [Slides, Cost Minimization and Profit Maximization](/teaching/Principles_of_Microeconomics/chapter11and13_fall2025.pdf)<br>
 
-
